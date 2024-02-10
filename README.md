@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on Interesting Projects.
 - 📫 Reach me at discord/@psfr.
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,py,git,linux,figma,blender&perline=5" />
+  </a>
+</p>
+
 <!---
 adityax4/adityax4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
