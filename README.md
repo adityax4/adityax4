@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in Open Source and Game Development
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently doing The Odin Project
 - 💞️ I’m looking to collaborate on Interesting Projects
 - 📫 Reach me at discord/@psfr
 
